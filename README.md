@@ -1,3 +1,3 @@
-# DoA
+# DoA 算法及其实现
 
-本书主要介绍波达方向估计（Direction of Arrival，DoA）的相关算法及其实现。
+本书主要介绍波达方向估计（Direction of Arrival，DoA）的算法及其实现。
